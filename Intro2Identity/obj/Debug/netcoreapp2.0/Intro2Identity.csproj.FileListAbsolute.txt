@@ -1,0 +1,11 @@
+C:\Users\acohr\source\repos\Lab26-Intro-to-Identity\Intro2Identity\bin\Debug\netcoreapp2.0\Intro2Identity.deps.json
+C:\Users\acohr\source\repos\Lab26-Intro-to-Identity\Intro2Identity\bin\Debug\netcoreapp2.0\Intro2Identity.runtimeconfig.json
+C:\Users\acohr\source\repos\Lab26-Intro-to-Identity\Intro2Identity\bin\Debug\netcoreapp2.0\Intro2Identity.runtimeconfig.dev.json
+C:\Users\acohr\source\repos\Lab26-Intro-to-Identity\Intro2Identity\bin\Debug\netcoreapp2.0\Intro2Identity.dll
+C:\Users\acohr\source\repos\Lab26-Intro-to-Identity\Intro2Identity\obj\Debug\netcoreapp2.0\Intro2Identity.csprojResolveAssemblyReference.cache
+C:\Users\acohr\source\repos\Lab26-Intro-to-Identity\Intro2Identity\obj\Debug\netcoreapp2.0\Intro2Identity.csproj.CoreCompileInputs.cache
+C:\Users\acohr\source\repos\Lab26-Intro-to-Identity\Intro2Identity\obj\Debug\netcoreapp2.0\Intro2Identity.AssemblyInfoInputs.cache
+C:\Users\acohr\source\repos\Lab26-Intro-to-Identity\Intro2Identity\obj\Debug\netcoreapp2.0\Intro2Identity.AssemblyInfo.cs
+C:\Users\acohr\source\repos\Lab26-Intro-to-Identity\Intro2Identity\bin\Debug\netcoreapp2.0\Intro2Identity.pdb
+C:\Users\acohr\source\repos\Lab26-Intro-to-Identity\Intro2Identity\obj\Debug\netcoreapp2.0\Intro2Identity.dll
+C:\Users\acohr\source\repos\Lab26-Intro-to-Identity\Intro2Identity\obj\Debug\netcoreapp2.0\Intro2Identity.pdb

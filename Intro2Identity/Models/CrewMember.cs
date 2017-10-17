@@ -9,5 +9,6 @@ namespace Intro2Identity.Models
     public class CrewMember : IdentityUser
     {
         public string Rank { get; set; }
+        public Channel Department { get; set; }
     }
 }
